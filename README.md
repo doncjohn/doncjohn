@@ -1,6 +1,6 @@
 ### Hello World, I'm Don 👋
 
- <img align="right" alt="GIF" src="https://giphy.com/embed/fwbzI2kV3Qrlpkh59e" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/source.gif" width="500" height="320" />
 
 
 ## I'm a Developer, Creator, and Mentor!!
