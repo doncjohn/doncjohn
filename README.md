@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Tensorflow & React Native
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
-- ⚡ Fun fact: I speak 4 languages ( English, Hindi, Malayalam)
+- ⚡ Fun fact: I speak 3 languages ( English, Hindi, Malayalam)
 
 
 ### Talk with me, I am kinda awesome:
