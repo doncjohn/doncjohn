@@ -1,6 +1,6 @@
 ### Hello World, I'm Don 👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://giphy.com/embed/fwbzI2kV3Qrlpkh59e" width="500" height="320" />
 
 
 ## I'm a Developer, Creator, and Mentor!!
