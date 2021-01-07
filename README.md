@@ -8,13 +8,13 @@
 - 🌱 I’m currently learning Tensorflow & React Native
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
-- ⚡ Fun fact: I speak 3 languages ( English, Hindi, Malayalam)
+- ⚡ Fun fact: I speak 3 languages (English, Hindi, Malayalam)
 
 
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="don_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
+<br/>
 
 ### Languages and Tools:
 
